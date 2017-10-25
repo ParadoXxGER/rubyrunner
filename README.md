@@ -87,8 +87,7 @@ Niklass-MacBook-Pro:rubyrunner niklas.hanft$ irb -I . -r lib/ruby_runner.rb
 INFO: Including: Deployment_utils
 INFO: Including: File_utils
 INFO: Including: Image_utils
-### Rubyrunner: a extendable and interactive ruby shell ### 
-DeploymentUtils.deploy_prod('example.com','foobar')
+### Rubyrunner: a extendable and interactive ruby shell ###
 irb(main):002:0> DeploymentUtils.deploy_prod('example.com', 'foobar')
 
 [3, 12] in /Users/niklas.hanft/Documents/Development/Ruby/rubyrunner/modules/deployment_utils.rb
